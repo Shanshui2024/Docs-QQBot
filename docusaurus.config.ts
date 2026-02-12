@@ -22,7 +22,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Shanshui2024', // Usually your GitHub org/user name.
-  projectName: 'Site-QQBotDocs', // Usually your repo name.
+  projectName: 'Docs-QQBot', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -75,7 +75,7 @@ const config: Config = {
           activeBasePath: '/docs/guide'
         },
         {
-          href: 'https://github.com/Shanshui2024/Site-QQBotDocs',
+          href: 'https://github.com/Shanshui2024/Docs-QQBot',
           label: 'GitHub',
           position: 'right',
         },
@@ -119,7 +119,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Shanshui2024/Site-QQBotDocs',
+              href: 'https://github.com/Shanshui2024/Docs-QQBot',
             },
           ],
         },
