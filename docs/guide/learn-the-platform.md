@@ -14,7 +14,7 @@ sidebar_position: 2
 
 ## 先决条件
 - 一个可用的[开发者账户](./create-an-account)
-- 一个可用的[机器人](/create-a-bot)
+- 一个可用的[机器人](./create-a-bot)
 
 ## 登录
 通过 [QQ开放平台](httpd://q.qq.com/) 登录开发者账户，并选定您的机器人
