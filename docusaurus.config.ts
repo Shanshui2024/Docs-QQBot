@@ -33,7 +33,10 @@ const config: Config = {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
-
+  plugins: [
+    'docusaurus-lunr-search',
+    'docusaurus-plugin-llms',
+  ],
   presets: [
     [
       'classic',
