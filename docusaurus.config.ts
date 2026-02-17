@@ -61,6 +61,10 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    imageViewer: {
+      fullscreen: true, // 开启全屏
+      // 更多配置见 ViewerJS 文档
+    },
     navbar: {
       title: 'QQ开平第三方文档',
       logo: {
