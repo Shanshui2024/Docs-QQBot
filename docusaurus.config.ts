@@ -36,6 +36,7 @@ const config: Config = {
   plugins: [
     'docusaurus-lunr-search',
     'docusaurus-plugin-llms',
+    'docusaurus-plugin-image-viewer'
   ],
   presets: [
     [
