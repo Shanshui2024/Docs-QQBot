@@ -36,7 +36,7 @@ const config: Config = {
   plugins: [
     'docusaurus-lunr-search',
     'docusaurus-plugin-llms',
-    'docusaurus-plugin-image-viewer'
+    'lightbox-image-plugin'
   ],
   presets: [
     [
@@ -60,10 +60,6 @@ const config: Config = {
     image: 'https://static.axtn.net/logo/AxT.png',
     colorMode: {
       respectPrefersColorScheme: true,
-    },
-    imageViewer: {
-      fullscreen: true, // 开启全屏
-      // 更多配置见 ViewerJS 文档
     },
     navbar: {
       title: 'QQ开平第三方文档',
