@@ -259,6 +259,6 @@ WebHook，就是开放平台服务端接收到信息后，向指定的 **WebHook
 :::danger 慎用WebHook
 开放平台通知：websocket 事件推送链路已于**24年年底前**逐步下线，后续官方不再维护。已接入websocket链路的机器人，请迁移至webhook链路。
 
-目前状况未知，如果有仍在使用websocket链路的机器人，请在 **配置好WebHook** 或 **有备用容灾** 的机制，否则 **一旦配置好WebHook链路，WebSocket会立即下线并不再可用**
+目前状况未知，如果有仍在使用websocket链路的机器人，请在 **配置好WebHook接收端** 或 **有备用容灾** 的机制后，再配置，否则 **一旦配置好WebHook链路，WebSocket会立即下线并不再可用**
 :::
 
