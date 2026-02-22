@@ -79,6 +79,11 @@ const config: Config = {
           activeBasePath: '/docs/guide'
         },
         {
+          label: '开发文档',
+          to: '/docs/api/intro',
+          activeBasePath: '/docs/api'
+        },
+        {
           href: 'https://github.com/Shanshui2024/Docs-QQBot',
           label: 'GitHub',
           position: 'right',
@@ -99,6 +104,10 @@ const config: Config = {
               label: '快速起步',
               to: '/docs/guide/create-an-account',
             },
+            {
+              label: '快速起步',
+              to: '/docs/api/intro',
+            }
           ],
         },
         {
