@@ -105,7 +105,7 @@ const config: Config = {
               to: '/docs/guide/create-an-account',
             },
             {
-              label: '快速起步',
+              label: '开发文档',
               to: '/docs/api/intro',
             }
           ],
