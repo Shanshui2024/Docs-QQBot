@@ -31,13 +31,16 @@ sidebar_position: 1
 ## 创建开发者账户
 1. 访问 [QQ开放平台](https://q.qq.com/)，并点击页面中的 **[立即注册](https://q.qq.com/#/register)**。
 2. 填入邮箱地址和登录密码，阅读协议并勾选下方的复选框，然后点击 **注册**（如图）。
-![img-注册](https://uapis.cn/static/uploads/9c330eef59_72HqZmjC9gL8.webp)
+![img-注册](https://image.shanshui.site/file/1771857887177_guide-register-1.png)
 3. 打开您的邮箱客户端，并点击 **QQ开放平台** 发送的验证邮件（本处以Outlook为例）。
-![img-验证邮件](https://uapis.cn/static/uploads/9c3312c3e7_3s7W7YZIXYBM.webp)
+![img-验证邮件](https://image.shanshui.site/file/1771857928521_guide-register-2.png)
 4. 验证成功后，设置“超级管理员姓名”（您的真实姓名），“超级管理员身份证号”，“超级管理员手机号” 并点击获取验证码。
 5. 然后，填入验证码，并使用**相同实名的QQ号**扫描提供的二维码并点击**确认**。
-![img-信息填写](https://uapis.cn/static/uploads/9c331dd00d_uLibc5SDy9Wx.webp)
+![img-信息填写](https://image.shanshui.site/file/1771857929646_guide-register-3.png)
 6. 选择主体并按提示使用人脸验证或对公打款（个体工商户或企业），然后点击“继续”。
+![img-验证主体](https://image.shanshui.site/file/1771857928513_guide-register-5.png)
+
+> 对于个人开发者，需要填入指定上述信息并进行二次验证。
 
 :::warning
 企业入驻需要提供工商信息，包括：营业执照、对公账号等，如不具备的用户请使用“个人”主体。 
@@ -45,10 +48,9 @@ sidebar_position: 1
 邮箱一旦验证成功则被占用，无法修改或注销开发者账号，所以选错主体类型的用户需要**更换邮箱重新注册**。
 :::
 
+当提示以下内容时，即代表已注册完成。此时开发者账户已创建成功。并且已经注册好了主体信息。
 
-
-
-完成！您的开发者账户已创建成功。并且已经注册好了主体信息。
+![img-验证结束](https://image.shanshui.site/file/1771858558894_guide-register-6.png)
 
 ## 下一步...
 接下来，我们可以通过开平首页的“使用QQ二维码登录”登录到对应主体，并开始创建QQ机器人了。
