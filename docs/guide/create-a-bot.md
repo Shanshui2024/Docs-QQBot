@@ -15,18 +15,25 @@ title: 创建机器人
 ## 创建机器人
 登录开平首页，点击分区中的“机器人”，然后点击下方的“创建机器人”。
 
-![img-创建机器人](https://image.shanshui.site/file/1771859319378_guide-create-bot-1.webp)
+:::caution
+请注意：开放平台首页已更新，但不影响正常创建机器人。只是配图没有更新
+:::
+
+![img-创建机器人](https://image.shanshui.site/file/qqbot-docs/1771859319378_guide-create-bot-1.webp)
 
 然后跟随提示填写好机器人的头像、昵称、介绍信息等，并点击“确认”。
 
-![img-填写信息](https://image.shanshui.site/file/1771859319968_guide-create-bot-2.webp)
+![img-填写信息](https://image.shanshui.site/file/qqbot-docs/1771859319968_guide-create-bot-2.webp)
 
 最后，在弹出的窗口中点击 “提交创建” 等待验证结束即创建完毕。
 
-![img-提交创建](https://image.shanshui.site/file/1771859318993_guide-create-bot-3.webp)
+![img-提交创建](https://image.shanshui.site/file/qqbot-docs/1771859318993_guide-create-bot-3.webp)
 
 ## 进行基础设置
 在完成创建后，我们可以点入管理端并转到“开发设置”进行更多事件的处理，例如 Webhook地址、事件上报类型、沙盒等。
+
+请注意：在新版本开放平台当中，请点击右侧的 **"高级设置"** 进入设置页面（如下图）
+![img-高级设置](https://image.shanshui.site/file/qqbot-docs/1775451905651_QQ20260406-130333.webp)
 
 ## 下一步...
 我们将会在下一节，具体讲解开平网站的**功能使用方式**和机器人从创建到上线的**全流程**

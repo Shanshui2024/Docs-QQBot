@@ -44,10 +44,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Shanshui2024/Site-QQBotDocs/tree/main/',
+            'https://github.com/Shanshui2024/Docs-QQBot/edit/main/',
         },
         theme: {
         },
@@ -128,7 +126,7 @@ const config: Config = {
           items: [
             {
               label: 'Shanshui2024',
-              href: 'https://me.shanshui.site/',
+              href: 'https://shanshui.site/',
             },
             {
               label: 'GitHub',
