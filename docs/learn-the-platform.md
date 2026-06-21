@@ -1,6 +1,7 @@
 ---
-title: 前言
+title: 使用开放平台
 sidebar_position: 1
+slug: /learn-the-platform
 ---
 # 使用QQ开放平台
 
@@ -11,7 +12,7 @@ sidebar_position: 1
 ## 登录
 通过 [QQ开放平台](httpd://q.qq.com/) 登录开发者账户，并选定您的机器人
 
-:::warning 注意
+:::warning[注意]
 由于开平**未适配**手机端，手机端页面无法正常显示，因此本处不推荐使用手机进行操作
 :::
 

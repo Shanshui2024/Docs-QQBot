@@ -41,7 +41,7 @@ sidebar_position: 2
 本组件允许开发者在单聊页面自定义 **简介页面** 的背景图，对于机器人介绍页面很有用
 ![img-背景图-1](https://image.shanshui.site/file/qqbot-docs/1775464898920_guide-using-6.webp)
 
-:::warning 注意
+:::warning[注意]
 开放平台的表述实际上有误，**“聊天背景素材”** 实际上与聊天背景没有任何关系。
 ::: 
 

@@ -8,7 +8,7 @@ title: 起步接入
 ![图像](https://qq-ai.cdn-go.cn/web/bot-docs/-/v1.10.0/assets/img/interface-base-framework.d01e0c4a.png)
 
 ## 接口调用与鉴权
-:::info 说明
+:::info[说明]
 `QQ机器人` 服务端开放的 `openapi` 接口**均使用https通信**，并通过 `AccessToken` 机制实现对相关接口的鉴权
 :::
 
