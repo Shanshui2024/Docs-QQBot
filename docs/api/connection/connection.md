@@ -69,7 +69,7 @@ curl --location 'https://bots.qq.com/app/getAppAccessToken' \
 }
 ```
 
-:::info 说明
+:::info[说明]
 目前 `access_token` 生命周期默认 `7200` 秒，每次请求不会刷新，开发者需要在过期后自行刷新 `access_token`。
 
 在上一个 `access_token` 接近过期时间 `60` 秒内获取时，会获得一个新的 `access_token`，旧值在过期时间内仍然有效

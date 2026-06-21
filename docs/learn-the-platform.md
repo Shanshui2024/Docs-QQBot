@@ -1,6 +1,6 @@
 ---
 title: 使用开放平台
-sidebar_position: 1
+sidebar_position: 3
 slug: /learn-the-platform
 ---
 # 使用QQ开放平台
