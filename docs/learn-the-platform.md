@@ -1,13 +1,12 @@
 ---
 title: 使用开放平台
 sidebar_position: 3
-slug: /learn-the-platform
 ---
 # 使用QQ开放平台
 
 ## 先决条件
-- 一个可用的[开发者账户](../guide/create-an-account)
-- 一个可用的[机器人](../guide/create-a-bot)
+- 一个可用的[开发者账户](./guide/create-an-account)
+- 一个可用的[机器人](./guide/create-a-bot)
 
 ## 登录
 通过 [QQ开放平台](httpd://q.qq.com/) 登录开发者账户，并选定您的机器人
